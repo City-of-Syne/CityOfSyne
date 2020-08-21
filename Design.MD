@@ -35,3 +35,9 @@ Man has been cast into an age of darkness. Amidst the rubble, a city of people f
   * Alchemy
   * Blacksmithing
   * Leatherworking         
+
+### Magic
+  * Alteration
+  * Invocation
+  * Restoration
+  * Necromancy
